@@ -29,6 +29,8 @@
 
 ## Architecture Diagram
 
+![](paste here image)
+
 ##
 
 ### Scalability / Low Latency
